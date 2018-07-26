@@ -1,0 +1,2 @@
+git_git_git_0/learngit/git_0_first_push
+mock another developer push file to my repository learngit.git
