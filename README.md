@@ -4,4 +4,4 @@ Creating a new branch is quick and simple.
 add merge
 Git is a free software...
 滑板，吉他，音乐，编程，书写，画册
-git commit -m "note" 要用双引号 double qutation marks
+git commit -m "note" 要用双引号 double quotation marks
